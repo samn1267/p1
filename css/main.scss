@@ -1,0 +1,54 @@
+@media only screen and (max-width: 600px) {
+    body {
+      margin: 0;
+      padding: 0;
+
+    }
+
+   h2{
+       font-size: large;
+   }
+
+.afterpage{
+    position: static;
+}
+
+
+
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.intro{
+    
+    text-align: center;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    
+
+}
+h2{
+    font-family: poppins;
+}
+
